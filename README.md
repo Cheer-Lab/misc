@@ -1,6 +1,6 @@
 # misc
 Miscellaneous files for modeling or behavioral analyses.
-Below is an example of the modeling of dopamine concentrations in the brain using the Pan Equation [1].
+Below is an example of the modeling of dopamine concentrations in the brain using the Pan Equation [1]. Other files include wheel tracking and extraction of behavioral data with analysis of delay discounting gradients. 
 
 ![](https://github.com/Cheer-Lab/misc/blob/master/PanEx.PNG)
 
