@@ -1,5 +1,8 @@
 /*
-James Irving - Sparta Lab - 07/07/16
+Author: James Irving - Sparta Lab - 07/07/16
+Change Log:
+1/2018: Edited by Brian Carson to receive serial communication as input trigger as well as input pin
+
 Input-Triggered Adjustable Stimulation Parameters - Guaranteed # of pulses regardless of length of TTL
 Script from Garret Stuber Lab to activate Laser unit at a specific
 frequency, triggered by a TTL from MED Associates.
