@@ -1,4 +1,8 @@
 %% Strain gauge
+% Reads data from puTTY stream collected using voltagPrint sketch on arduino,
+% then plots values to view which side of the box the animal is in.
+% Authors: Tori Ayvazian and Brian Carson
+
 box1=[]; % preallocate/clear old data
 box2=[];
 t=[];
