@@ -1,3 +1,6 @@
+// Strain gauges
+// read voltages from CPP boxes equipped with strain gauge sensors. Prints values to the serial to log them via puTTY
+
 int voltageOne=0;
 int voltageTwo=0;
 
